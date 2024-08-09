@@ -1,4 +1,4 @@
-# chatp2p-decentralisation-chatgpt
+# chatp2p-decentralization-chatgpt
 
 
 # Artificial Intelligence Descentralization
